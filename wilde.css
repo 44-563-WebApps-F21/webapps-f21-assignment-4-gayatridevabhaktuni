@@ -1,0 +1,25 @@
+h6 {color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+
+}
+.stage-direction {color:black;
+    font-family: cursive;
+    font-size: x-small;
+    background-color:lightgoldenrodyellow;
+    border: 5px coral;
+    padding: auto;
+
+
+}
+.stage-direction:hover{
+    background-color: pink;
+    color: navy;
+}
+#james {
+    font-family: cursive;
+}
+.speech{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+}
