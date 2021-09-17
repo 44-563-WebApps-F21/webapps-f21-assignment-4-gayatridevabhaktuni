@@ -29,16 +29,39 @@ h6 {color:black;
     font-size: small;
 }
 .LORDGORING{
-    color: lightsalmon;
+    color:black;
+    background-color: rgb(173, 166, 170);
+}
+.LORDGORING:hover{
+    color: lightseagreen;
+    background-color: lightslategray;
+
 }
 .james{
     color: skyblue;
+    background-color: indigo;
+
+}
+.james:hover{
+    color:blueviolet;
+    background-color: cornsilk;
 }
 .LORDCAVERSHAM{
     color:teal;
+    background-color: lightcyan;
+}
+.LORDCAVERSHAM:hover{
+    color: darkmagenta;
+    background-color: darkseagreen;
 }
 .Robert{
     color: thistle;
+    background-color: lightcyan;
+
+}
+.Robert:hover{
+    color: darkslategrey;
+    background-color: floralwhite;
 }
 table, th, td{
     border: 1px solid black;
