@@ -20,8 +20,10 @@ h6 {color:black;
     font-size: small;
     font-style: italic;
     font-family: sans-serif;
+    border-style: groove;
 
 }
+
 
 
 .speech{
