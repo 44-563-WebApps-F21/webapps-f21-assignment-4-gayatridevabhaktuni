@@ -98,7 +98,7 @@ ul.navbar-horizontal li
 }
 ul.navbar-horizontal a
 {
-   display: inline-block;
+   display: block;
    padding:20px;
    color:rgb(200, 228, 124);
 }
